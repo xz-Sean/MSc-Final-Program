@@ -1,5 +1,7 @@
 # Copula-VAE Hybrid Synthesis for Small-Sample Geoscience Data
 
+## Due to potential restrictions, real and synthetic data are not displayed in this repo.
+
 > Synthetic tabular data generation for blasting–fragmentation under **small-n, moderate-d, multi-site heterogeneity**.
 > Pipeline: **Copula (PIT→AIC)** ⟶ **TVAE variants (Vanilla / β-annealed / GMM prior)** ⟶ **Evaluation (TSTR / MMD / FAED / multi-seed)**.
 
